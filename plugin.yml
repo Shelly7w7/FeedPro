@@ -1,0 +1,10 @@
+name: FeedPro
+main: FeedPro\Main
+author: OmgBossinator
+version: 1.0
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
+
+commands:
+ feed:
+  description: "setFood 20 on your FoodBar"
+  permission: feed.main.command
