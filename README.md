@@ -1,0 +1,2 @@
+# FeedPro
+use /feed
